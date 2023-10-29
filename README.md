@@ -30,5 +30,15 @@
             </td>
             <td>Test button</td>
         </tr>
+        <tr>
+            <td><a href="arduino_keyboard">arduino_keyboard</a></td>
+            <td>
+                <ul>
+                    <li>Arduino UNO R3</li>
+                    <li>Keyboard 4x4</li>
+                </ul>
+            </td>
+            <td>Test keyboard 4x4</td>
+        </tr>
     </tbody>
 </table>
