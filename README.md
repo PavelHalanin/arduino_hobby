@@ -19,5 +19,16 @@
             </td>
             <td>Test LED 7-segment display 5611AS</td>
         </tr>
+        <tr>
+            <td><a href="arduino_button">arduino_button</a></td>
+            <td>
+                <ul>
+                    <li>Arduino UNO R3</li>
+                    <li>BreadBoard MB-1022</li>
+                    <li>10K</li>
+                </ul>
+            </td>
+            <td>Test button</td>
+        </tr>
     </tbody>
 </table>
