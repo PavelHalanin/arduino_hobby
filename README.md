@@ -40,5 +40,16 @@
             </td>
             <td>Test keyboard 4x4</td>
         </tr>
+        <tr>
+            <td><a href="arduino_HW-504_joystick">arduino_HW-504_joystick</a></td>
+            <td>
+                <ul>
+                    <li>Arduino UNO R3</li>
+                    <li>HW-504 joystick</li>
+                    <li>papa-mama (5 pieces)</li>
+                </ul>
+            </td>
+            <td>Test joystick</td>
+        </tr>
     </tbody>
 </table>
