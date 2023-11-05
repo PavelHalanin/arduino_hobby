@@ -8,6 +8,19 @@
     </thead>
     <tbody>
         <tr>
+            <td><a href="arduino_led">arduino_led</a></td>
+            <td>
+                <ul>
+                    <li>arduino UNO R3</li>
+                    <li>resistor 220R</li>
+                    <li>led</li>
+                    <li>breadboard MB-1022</li>
+                    <li>papa-papa (2 pieces)</li>
+                </ul>
+            </td>
+            <td>Test led</td>
+        </tr>
+        <tr>
             <td><a href="arduino_5611AS">arduino_5611AS</a></td>
             <td>
                 <ul>

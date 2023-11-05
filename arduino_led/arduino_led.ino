@@ -1,0 +1,31 @@
+/*
+Items:
+- arduino UNO R3
+- resistor 220R
+- led
+- breadboard MB-1022
+- papa-papa (2 pieces)
+
+                    /+\
+                   /LED\
+                   |LED|
+                   |LED|
+                   |LED|
+                   +---+
+                   /   |
+                  /    |
+[D13]---[220R]---/     |---[GND]
+*/
+
+const int LED_PIN = 13;
+
+void setup() {
+  pinMode(LED_PIN, OUTPUT);
+}
+
+void loop() {
+  digitalWrite(LED_PIN, HIGH);
+  delay(1000);
+  digitalWrite(LED_PIN, LOW);
+  delay(1000);
+}
