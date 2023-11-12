@@ -64,5 +64,16 @@
             </td>
             <td>Test joystick</td>
         </tr>
+        <tr>
+            <td><a href="arduino_HC-SR04">arduino_HC-SR04</a></td>
+            <td>
+                <ul>
+                    <li>Arduino UNO R3</li>
+                    <li>papa-mama (4 pieces)</li>
+                    <li>HC-SR04</li>
+                </ul>
+            </td>
+            <td>Test HC-SR04</td>
+        </tr>
     </tbody>
 </table>
